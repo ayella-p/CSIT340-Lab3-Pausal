@@ -9,7 +9,11 @@ function AboutSection() {
     >
       <SectionHeading title="About" subtitle="A little about who I am." />
       <p class="mt-6 max-w-2xl leading-relaxed text-stone-700">
-        I was raised in Cordova, choosing to pursue a BS in Information Technology at CIT-U was a massive step out of my comfort zone, especially given the distance from home. While I was initially unsure about my choice of major, I am actively learning to genuinely love and embrace the IT field. I may still be figuring out my exact career path, but I am absolutely certain my future lies somewhere in the tech world.
+        I am an aspiring tech professional from Cordova, currently pursuing my
+        BS in Information Technology at CIT-U. My journey into IT is driven by a
+        willingness to step outside my comfort zone and a growing passion for
+        problem-solving. I am actively building my technical foundation and am
+        eager to apply my skills to real-world challenges.{" "}
       </p>
       <dl class="mt-8 grid grid-cols-2 gap-6 sm:grid-cols-4">
         <Fact label="Course" value="BS Information Technology" />

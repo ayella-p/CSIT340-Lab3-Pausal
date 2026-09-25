@@ -23,7 +23,7 @@ function SkillsSection() {
           <div class="mt-3 flex flex-wrap gap-2">
             <SkillTag name="React" />
             <SkillTag name="Tailwind CSS" />
-            <SkillTag name="Bootstrap" />
+            <SkillTag name="MySQL" />
           </div>
         </div>
         <div>
