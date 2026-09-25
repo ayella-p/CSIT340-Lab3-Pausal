@@ -9,9 +9,7 @@ function AboutSection() {
     >
       <SectionHeading title="About" subtitle="A little about who I am." />
       <p class="mt-6 max-w-2xl leading-relaxed text-stone-700">
-        Taking up BS Information Technology especially at CIT-U which is very far from where I live is a big step for me. 
-        I was not sure of this course at first, but I am now in the process of learning to love and to embrace my decision. 
-        I am still figuring out what I want to do in the future, but I am sure that I want it related to this course.
+        I was raised in Cordova, choosing to pursue a BS in Information Technology at CIT-U was a massive step out of my comfort zone, especially given the distance from home. While I was initially unsure about my choice of major, I am actively learning to genuinely love and embrace the IT field. I may still be figuring out my exact career path, but I am absolutely certain my future lies somewhere in the tech world.
       </p>
       <dl class="mt-8 grid grid-cols-2 gap-6 sm:grid-cols-4">
         <Fact label="Course" value="BS Information Technology" />
